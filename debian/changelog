@@ -1,0 +1,5 @@
+flask-principal (0.3.3) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Arvind Singh <arvind@buzzworks.com>  Fri, 02 Nov 2012 16:47:04 +0530

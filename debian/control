@@ -1,0 +1,13 @@
+Source: flask-principal
+Section: python
+Priority: optional
+Maintainer: Arvind Singh <arvind@buzzworks.com>
+Build-Depends: debhelper (>= 9), python-all (>= 2.7), python-setuptools
+Standards-Version: 3.9.4
+
+Package: python-flask-principal
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}
+Provides: ${python:Provides}
+Description: identity management for Flask
+ Identity management for Flask applications.
